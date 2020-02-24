@@ -57,6 +57,6 @@ void find_resultCoordinates(int size, int x, int y, char moves[]) {
 			}
 		}	
     }
-    printf("[%d,%d]",res_x,res_y);
+    printf("\n[%d,%d]\n",res_x,res_y);
     return;
 }
